@@ -3,7 +3,7 @@ layout: post
 title:  "Building blocks to learning React Native"
 author: airesh_bhat
 categories: [React, React native, App development]
-image: 
+image: assets/images/react.png
 featured: true
 hidden: true
 ---
