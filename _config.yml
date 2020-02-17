@@ -21,7 +21,14 @@ authors:
     web: 
     twitter: 
     description: "Developer and Co-founder, SmartCampus"
-
+  abhijeet_viswa:
+    name: Abhijeet Viswa
+    display_name: Abhijeet Viswa
+    gravatar: a279bf73c1ee8c36196e7edfa7380d1b
+    email: abhijeetviswa@gmail.com
+    web:
+    twitter:
+    description: "Backend Lead, SmartCampus"
 # Plugins
 plugins:
   - jekyll-paginate
